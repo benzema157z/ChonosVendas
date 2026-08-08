@@ -1,0 +1,13 @@
+{
+  "name": "chonos-servidor",
+  "version": "1.0.0",
+  "description": "Servidor do CHONOS — serve a interface e faz a ponte segura com as APIs de IA (Gemini, Replicate, Pollinations).",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
